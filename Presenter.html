@@ -18,6 +18,8 @@
   	font-size:40px;
     width: 93%;
     height: 93%;
+
+    text-align: center;
   }
   .slideCount {
     position: fixed;
@@ -53,7 +55,7 @@
   /* My styling here */
   body,
   .content-holder {
-    background-color: rgb(22,20,24);
+    background-color: rgb(22,19,24);
     background-image:
         linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
         linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
@@ -110,6 +112,21 @@
     width: auto;
     max-height: 15em;
     max-width: 22em;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center !important;
+  }
+
+  .centered > ul,
+  .centered > p{
+    text-align: left;
+    margin-top: 1em;
+    display: inline-block;
   }
 
   @media screen {
