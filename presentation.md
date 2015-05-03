@@ -15,10 +15,30 @@
 
 # Warum sind wir eigentlich hier?
 
- Oder besser: Warum seid ihr eigentlich hier?
+Oder besser: Warum seid ihr eigentlich hier?
 
 !
 
+# Warum sind wir eigentlich hier?
+
+Oder besser: Warum wir nicht hier sind:
+
+* Wir wollen nichts verbieten!
+* "Alles ist schlecht / unsicher!"
+
+!
+
+# Warum sind wir dann hier?
+
+* Wir erklären, wo die Probleme liegen!
+* Wir versuchen Hinweise zu geben, was man besser machen kann!
+
+!
+
+![Warentest](./imgs/enttaeuschung.png "Auszug Stiftung Warentest")
+
+
+!
 
 # Suchmaschinen
 
@@ -33,7 +53,6 @@ Wie viel zahlt ihr an Google pro Monat?
 !
 
 ### Google hat viele Rechenzentren
-
 
 _Und sie haben sogar ein Video, das Zeigt,   
 wie so ein Rechenzentrum funktioniert._
@@ -97,28 +116,38 @@ wenn Du nichts dafür zahlst?
 !
 
 
-# Soziale Netze
+# Soziale Netzwerke
 
 !
 
 ### Facebook
 
 * Facebook ist das Größte (1,5 Mrd. Nutzer)
-* Die Konkurrenten gehen Pleite
+* Viele Konkurrenten gehen Pleite (studivz, lokalisten)
 
 !
 
 ### Facebook
 
-* Damit gehen alle zu Facebook
+* Damit gehen alle zu Facebook.
 * …und Facebook hat die Daten von allen.
 
 !
 
 ### Facebook
 
+* Was können Freunde / Freundesfreunde / alle anderen sehen?
 * Die Einstellungen für Datenschutz haben sich oft geändert
 * …und können sich jederzeit wieder ändern
+
+!
+
+### Potentielle Gefahr?
+
+* Deine Daten kommen in die falschen Hände
+  * Will ich den wirklich einstellen?
+  * Wer ist gerade im Urlaub?
+  * Was treibt mein Sohn?
 
 !
 
@@ -129,6 +158,7 @@ wenn Du nichts dafür zahlst?
   * …und Bilder
   * …und Unterhaltungen
   * …welche Seiten ihr besucht habt
+  * …und wenn ihr die App nutzt, noch viel mehr
 * …für immer
 
 !
@@ -152,7 +182,8 @@ wenn Du nichts dafür zahlst?
 ### Und die anderen?
 
 * Twitter
-* Whatsapp
+* Whatsapp (gehört nun zu Facebook)
+* V-Kontakte
 * …sind genau so schlimm
 
 !
@@ -160,7 +191,8 @@ wenn Du nichts dafür zahlst?
 ### Und nun?
 
 * Ghostery schützt etwas
-* Eigener Browser für facebook
+* "RequestPolicy" ist für Fortgeschrittene
+* Eigener Browser / Inkognito für facebook
 
 !
 
@@ -195,7 +227,7 @@ wenn Du nichts dafür zahlst?
 
 # denn...
 
-* Google cache
+* Google Cache
 * Wayback machiene
 * archive.org
 
@@ -228,7 +260,7 @@ wenn Du nichts dafür zahlst?
 
 * Beide stammen aus den USA
 * Beide legen den Quellcode nicht offen
-  * ==> d.H. niemand weiss genau, was die Handys machen
+  * ==> d.h. niemand weiss genau, was die Handys machen
 
 !
 
@@ -242,14 +274,20 @@ wenn Du nichts dafür zahlst?
 
 !
 
-## GSM Netz
+## Internetzugang
 
-* GSM ist
-  * …abhörbar
-  * …störbar
-  * …fälschbar
+* Wer auch immer euch den Zugang zum Internet anbietet:
+  * kann "mithören"
+  * kann die Daten verändern
 
-**…und das ist alles ganz billig!**
+!
+
+## Internetzugang
+
+* Wie kann ich mich dagegen schützen?
+  * verschlüsseln, wo immer möglich
+    * HTTPS
+  * verschlüsselter VPN-Zugang
 
 !
 
@@ -259,9 +297,6 @@ wenn Du nichts dafür zahlst?
 
 # Und Nun?
 
-* Cyanogen-Mod
-* Firefox OS
-* Nutzt Internet, statt Telefon!
 
 !
 
