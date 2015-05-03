@@ -13,6 +13,12 @@
 
 !
 
+# Warum sind wir eigentlich hier?
+
+ Oder besser: Warum seid ihr eigentlich hier?
+
+!
+
 
 # Suchmaschinen
 
