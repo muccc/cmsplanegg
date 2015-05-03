@@ -16,6 +16,12 @@
 
 # Suchmaschinen
 
+Google ist die erfolgreichste Suchmachine weltweit
+
+!
+
+## Google
+
 Wie viel zahlt ihr an Google pro Monat?
 
 !
@@ -29,8 +35,10 @@ Wie viel zahlt ihr an Google pro Monat?
 ### Google hat viele Rechenzentren
 
 
-_Und sie haben sogar ein Video, das Zeigt,   
+_Und sie haben sogar ein [Video](https://www.youtube.com/watch?v=avP5d16wEp0 "Video"), das Zeigt,   
 wie so ein Rechenzentrum funktioniert._
+
+
 
 !
 
@@ -84,8 +92,18 @@ wenn Du nichts dafür zahlst?
 
 ### Alternativen?
 
-* _https://DuckDuckGo.com_
-* _https://ixquick.de/_
+* [https://DuckDuckGo.com](https://DuckDuckGo.com)
+* [https://ixquick.de](https://ixquick.de) 
+
+!
+
+### DuckDuckGo
+
+DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
+
+* _!wde Begriff_ Sucht auf der deutschen Wikipedia nach dem Begriff
+* _!g Begriff_ Sucht bei Google nach dem Begriff
+
 
 !
 
@@ -202,7 +220,13 @@ wenn Du nichts dafür zahlst?
 
 !
 
-## Smartphones
+## Smartphones und Tablets
+
+Ein Grossteil der Kommunikation findet
+
+!
+
+### Smartphones
 
 * Viele Firmen bauen Handys,
   * …aber alle benutzen die Technik weniger Hersteller
@@ -210,14 +234,14 @@ wenn Du nichts dafür zahlst?
 
 !
 
-## Smartphones, Betriebssysteme
+### Smartphones, Betriebssysteme
 
 * Apple mit iOS
 * Google mit Android
 
 !
 
-## Smartphones, Betriebssysteme
+### Smartphones, Betriebssysteme
 
 * Beide stammen aus den USA
 * Beide legen den Quellcode nicht offen
@@ -225,7 +249,7 @@ wenn Du nichts dafür zahlst?
 
 !
 
-## Vertrauen
+### Vertrauen
 
 * **Kann ich dem vertrauen?**
   * Software die ich gekauft habe?
@@ -235,7 +259,7 @@ wenn Du nichts dafür zahlst?
 
 !
 
-## GSM Netz
+### GSM Netz
 
 * GSM ist
   * …abhörbar
@@ -246,11 +270,11 @@ wenn Du nichts dafür zahlst?
 
 !
 
-# Und Nun?
+### Und Nun?
 
 !
 
-# Und Nun?
+### Und Nun?
 
 * Cyanogen-Mod
 * Firefox OS
