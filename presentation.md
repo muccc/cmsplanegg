@@ -14,48 +14,6 @@
 !
 
 
-## Der
-# Chaos Computer Club
-
-!
-### Hacken - Kreativer Umgang mit Technik
-![Hacken](./imgs/hackers.jpg "Hacken - Kreativer Umgang mit Technik")
-
-!
-
-
-## Chaos Comunication Camp
-![Camp](./imgs/camp.jpg "Chaos Communication Camp")
-
-!
-### Datenklo
-![Datenklo](./imgs/datenklo.jpg "Datenklo")
-
-!
-
-## All Colors Are Beautiful
-![Acab](./imgs/acab.jpg "ACAB")
-
-!
-
-## All Colors Are Beautiful
-
-* Blinkenlights
-* Elektronik
-* Puerto Giesing
-
-!
-
-## Politik
-
-* Gutachter beim Verfassungsgericht
-* Kampagnen gegen Vorratsdatenspeicherung
-* Wahlcomputer zum Schachcomputer gemacht
-* Schäubles Fingerabdruck zum Nachbauen
-* Biometrie - Apple (Touch ID)
-
-!
-
 # Suchmaschinen
 
 Wie viel zahlt ihr an Google pro Monat?
@@ -64,7 +22,7 @@ Wie viel zahlt ihr an Google pro Monat?
 
 ### Google hat viele Rechenzentren
 
-![Datacenters](./imgs/datacenter.jpg "Google Rechenzenten")
+![Datacenters](./imgs/datacenter.jpg "Google Rechenzentren")
 
 !
 
@@ -85,8 +43,8 @@ wenn Du nichts dafür zahlst?
 
 ## Google
 
-* Zeigen nicht alle Informationen
-* SEM - Search Enginge Marketing
+* Zeigt nicht alle Informationen
+* SEM - Search Engine Marketing
 * Google macht Geld mit euren Daten
 
 !
@@ -107,7 +65,7 @@ wenn Du nichts dafür zahlst?
 ### SEM
 
 * Werbung vor Suchergebnis
-* Google _zwingt_ firmen mitzumachen
+* Google _zwingt_ Firmen mitzumachen
 
 !
 
@@ -138,8 +96,8 @@ wenn Du nichts dafür zahlst?
 
 ### Facebook
 
-* Facebook ist das größte (1,5 Mrd. Nutzer)
-* Die Konkurenten gehen Pleite
+* Facebook ist das Größte (1,5 Mrd. Nutzer)
+* Die Konkurrenten gehen Pleite
 
 !
 
@@ -152,7 +110,7 @@ wenn Du nichts dafür zahlst?
 
 ### Facebook
 
-* Die Einstellungen für Datenschuz haben sich oft geändert
+* Die Einstellungen für Datenschutz haben sich oft geändert
 * …und können sich jederzeit wieder ändern
 
 !
@@ -180,8 +138,7 @@ wenn Du nichts dafür zahlst?
 ### Facebook
 
 * …speichert Daten über Leute die nicht bei Facebook sind
-* …speichert auch wenn ihr auf andere Webseiten geht (like
-button)
+* …speichert auch wenn ihr auf andere Webseiten geht (LikeButton)
 
 !
 
@@ -196,7 +153,7 @@ button)
 ### Und nun?
 
 * Ghostery schützt etwas
-* Eigener browser für facebook
+* Eigener Browser für facebook
 
 !
 
@@ -208,7 +165,7 @@ button)
 
 ## Informationelle Selbstbestimmung
 
-* d.H jeder darf selbst entscheiden, welche Daten er preisgeben möchte   
+* d.h. jeder darf selbst entscheiden, welche Daten er preisgeben möchte   
 * Das ist ein Grundrecht.
 
 
@@ -216,7 +173,7 @@ button)
 
 ## Informationelle Selbstbestimmung
 
-* **Fragt um erlaubnis**, bevor ihr
+* **Fragt um Erlaubnis**, bevor ihr
   * …Texte über andere veröffentlicht
   * …Fotos mit anderen veröffentlicht
   * …Gesichter in Fotos taggt
@@ -241,7 +198,7 @@ button)
 
 * Und ganz generell gilt:
   * …Teile nur, was du teilen musst
-  * …Teile nur, was du auch mit einem fremden teilen würdest.
+  * …Teile nur, was du auch mit einem Fremden teilen würdest.
 
 !
 
@@ -281,9 +238,9 @@ button)
 ## GSM Netz
 
 * GSM ist
-  * …Abhörbar
-  * …Störbar
-  * …Fälschbar
+  * …abhörbar
+  * …störbar
+  * …fälschbar
 
 **…und das ist alles ganz billig!**
 
@@ -295,7 +252,7 @@ button)
 
 # Und Nun?
 
-* Cyanogen mod
+* Cyanogen-Mod
 * Firefox OS
 * Nutzt Internet, statt Telefon!
 
