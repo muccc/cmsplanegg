@@ -13,22 +13,25 @@
 
 !
 
-# Warum sind wir eigentlich hier?
+# Vorstellung CCC
+
+!
+
+## Warum sind wir eigentlich hier?
 
 Oder besser: Warum seid ihr eigentlich hier?
 
 !
 
-# Warum sind wir eigentlich hier?
+## Warum sind wir eigentlich hier?
 
-Oder besser: Warum wir nicht hier sind:
-
-* Wir wollen nichts verbieten!
-* "Alles ist schlecht / unsicher!"
+* Oder besser: Warum wir nicht hier sind!
+  * Wir wollen nichts verbieten!
+  * "Alles ist schlecht / unsicher!"
 
 !
 
-# Warum sind wir dann hier?
+## Warum sind wir dann hier?
 
 * Wir erklären, wo die Probleme liegen!
 * Wir versuchen Hinweise zu geben, was man besser machen kann!
