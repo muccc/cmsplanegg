@@ -1,10 +1,10 @@
-Schülerpräsentation im Kupferhaus
-=================================
+#### (Spuren)
+# Im Netz
 
 !
 
-Inhalt
-------
+## Inhalt
+
 * Vorstellung CCC
 * Suchmaschinen
 * Social Networks
@@ -14,332 +14,299 @@ Inhalt
 !
 
 
-### Vorstellung CCC
+## Der
+# Chaos Computer Club
 
 !
-#### Hacken - Kreativer Umgang mit Technik
+### Hacken - Kreativer Umgang mit Technik
 ![Hacken](./imgs/hackers.jpg "Hacken - Kreativer Umgang mit Technik")
 
 !
 
 
-#### Chaos Comunication Camp
+## Chaos Comunication Camp
 ![Camp](./imgs/camp.jpg "Chaos Communication Camp")
 
 !
-#### Datenklo
+### Datenklo
 ![Datenklo](./imgs/datenklo.jpg "Datenklo")
 
 !
-####All Colors Are Beautiful
+
+## All Colors Are Beautiful
 ![Acab](./imgs/acab.jpg "ACAB")
 
 !
 
-  * ACAB
-    * Blinkenlights
-    * Elektronik
-    * Puerto Giesing
+## All Colors Are Beautiful
+
+* Blinkenlights
+* Elektronik
+* Puerto Giesing
 
 !
 
-* Politik
-  * Gutachter beim Verfassungsgericht
-  * Kampagnen gegen Vorratsdatenspeicherung
-  * Wahlcomputer zum Schachcomputer gemacht
-  * Schäubles Fingerabdruck zum Nachbauen
-  * Biometrie - Apple (Touch ID)
-      
-!
+## Politik
 
-### Suchmaschinen
-* Wieviel Google Zahlt ihr Google pro Monat?
+* Gutachter beim Verfassungsgericht
+* Kampagnen gegen Vorratsdatenspeicherung
+* Wahlcomputer zum Schachcomputer gemacht
+* Schäubles Fingerabdruck zum Nachbauen
+* Biometrie - Apple (Touch ID)
 
 !
 
-* Google hat viele Rechenzentren
+# Suchmaschinen
+
+Wie viel zahlt ihr an Google pro Monat?
+
+!
+
+### Google hat viele Rechenzentren
+
 ![Datacenters](./imgs/datacenter.jpg "Google Rechenzenten")
 
 !
 
-Und Sie haben sogar ein Video, dass Dir Zeigt, wei so ein Rechenzentrum funktioniert.
+### Google hat viele Rechenzentren
+
+
+_Und sie haben sogar ein Video, das Zeigt,   
+wie so ein Rechenzentrum funktioniert._
 
 !
 
-Wie verdient Google denn das Geld, wenn Du nichts dafür zahlst?
+## Google
 
-* Filterbubble
+Wie verdient Google denn das Geld,   
+wenn Du nichts dafür zahlst?
+
+!
+
+## Google
+
+* Zeigen nicht alle Informationen
 * SEM - Search Enginge Marketing
-* Die machen Geld mit Deinen Daten
+* Google macht Geld mit euren Daten
 
 !
 
-Und warum ist das schlecht?
+## Google
+
+**Und warum ist das schlecht?**
 
 !
 
-#### Filterbubble
+### Filterblase
 
-* Dinge die Dich interessieren könnten, werden vorweg gefiltert
-* Weil Du keine neuen Ansichten oder Informationen präsentiert bekommst
-  * z.B. Urlaubsreise in Ägypten vs. Proteste
+* Ergebnisse werden entfernt
+* Keine neuen Informationen
   
 !
   
-#### SEM
-* Du bekommst Marketing Inhalte höher präsentiert, als relevante Suchergebnisse
-* Google zwingt Firmen implizit mit zu machen
+### SEM
+
+* Werbung vor Suchergebnis
+* Google _zwingt_ firmen mitzumachen
 
 !
 
-#### Datenschutz
-* Google erstellt ein Profil über Dein Suchverhalten
-* Auch ohne Login
-* Teilt es mit Youtube und Google+
+### Datenschutz
+
+* Google erstellt immer ein Profil über dich
+* Google+, YouTube sind Teil von Google
 
 !
+
+### Es ist Kostenlos
 
 ![Pigs in a barn](./imgs/pigs.jpg "Pigs in a Barn")
 
 !
 
-* Alternativen:
-  * https://DuckDuckGo.com
-  * https://ixquick.de/
-  
-!
+### Alternativen?
 
-
-### Social Networks
+* _https://DuckDuckGo.com_
+* _https://ixquick.de/_
 
 !
 
-* Facebook ist das größte Social Network
-* Über 1.300.000.000 Benutzer!
-* Die Konkurenten schließen
+
+# Soziale Netze
 
 !
+
+### Facebook
+
+* Facebook ist das größte (1,5 Mrd. Nutzer)
+* Die Konkurenten gehen Pleite
+
+!
+
+### Facebook
 
 * Damit gehen alle zu Facebook
-* ... und Facebook hat die Daten von allen.
+* …und Facebook hat die Daten von allen.
 
 !
 
-* Die Datenschutzeinstelungen haben sich schon oft geändert
-* ... und können sich jederzeit wieder ändern
+### Facebook
+
+* Die Einstellungen für Datenschuz haben sich oft geändert
+* …und können sich jederzeit wieder ändern
 
 !
 
-* Auch so speichert Facebook eure Posts
-* ... und Bilder
-* ... und Unterhaltungen
-* ... welche Seiten ihr besucht habt
-* ... im Zweifelsfall für immer - ob sie je gelöscht werden kann keiner kontrollieren
+### Facebook
+
+* Facebook speichert
+  * Posts
+  * …und Bilder
+  * …und Unterhaltungen
+  * …welche Seiten ihr besucht habt
+* …für immer
 
 !
 
-* Mittels Gesichterkennung, weiss Facebook auch Dinge die ihr nicht Schreibt wie
-  * Eure Augenfarbe
-  * Euer Geschlecht
-  * Euer Alter
+### Facebook
+
+* Facebook erkennt
+  * …eure Augenfarbe
+  * …euer Geschlecht
+  * …euer Alter
 
 !
 
-* Und das gleiche gilt natürlich ähnlich für
-  * Twitter
-  * Whatsapp
-  * etc.
+### Facebook
 
-
-!
-
-* Und das nichtmal nur von Mitgliedern von Facebook, sondern auch von Leuten über die man schreibt, postet, etc.
+* …speichert Daten über Leute die nicht bei Facebook sind
+* …speichert auch wenn ihr auf andere Webseiten geht (like
+button)
 
 !
 
-#### Informationelle Selbstbestimmung
+### Und die anderen?
+
+* Twitter
+* Whatsapp
+* …sind genau so schlimm
+
+!
+
+### Und nun?
+
+* Ghostery schützt etwas
+* Eigener browser für facebook
+
+!
+
+## Informationelle Selbstbestimmung
 
 "das Recht des Einzelnen, grundsätzlich selbst über die Preisgabe und    Verwendung seiner personenbezogenen Daten zu bestimmen" (Wikipedia)
 
 !
 
-d.H.  Jeder darf für sich selbst entscheiden, welche Daten er über sich  preis gibt laut Bundesverfassungsgerichts ein Datenschutz-Grundrecht
+## Informationelle Selbstbestimmung
+
+* d.H jeder darf selbst entscheiden, welche Daten er preisgeben möchte   
+* Das ist ein Grundrecht.
+
 
 !
 
-Also immer vorher überlegen, ob derjenige über den ihr schreibt oder dessen Foto ihr postet damit auch einverstanden wäre.
+## Informationelle Selbstbestimmung
+
+* **Fragt um erlaubnis**, bevor ihr
+  * …Texte über andere veröffentlicht
+  * …Fotos mit anderen veröffentlicht
+  * …Gesichter in Fotos taggt
 
 !
+
+# denn...
+
+**Das internet vergisst nicht!**
+
+!
+
+# denn...
+
+* Google cache
+* Wayback machiene
+* archive.org
+
+!
+
+## Informationelle Selbstbestimmung
 
 * Und ganz generell gilt:
-  * Teile in Social Networks nur Dinge, die Du auch jedem Fremden auf der Straße erzählen wrürdest
-
-### Smartphones
-* Es gibt viele Hersteller der Hardware
-* Aber nur 2 große Hersteller von Betriebssystemen
+  * …Teile nur, was du teilen musst
+  * …Teile nur, was du auch mit einem fremden teilen würdest.
 
 !
 
-* Apple mit iOS und
+## Smartphones
+
+* Viele Firmen bauen Handys,
+  * …aber alle benutzen die Technik weniger Hersteller
+  * …und nur 2 bauen Betriebssysteme
+
+!
+
+## Smartphones, Betriebssysteme
+
+* Apple mit iOS
 * Google mit Android
 
 !
 
-* Aber von beiden Betriebssystemen liegt der Quellcode nicht offen.
-* Das bedeutet, niemand ausser den Herstellern weiss was hier genau die Handys machen
+## Smartphones, Betriebssysteme
+
+* Beide stammen aus den USA
+* Beide legen den Quellcode nicht offen
+  * ==> d.H. niemand weiss genau, was die Handys machen
 
 !
 
+## Vertrauen
 
+* **Kann ich dem vertrauen?**
+  * Software die ich gekauft habe?
+  * Apps auf dem Handy?
+  * Cracks für Software?
+  * Der Hardware meines Handys?
 
-* 2 Hersteller
-  * Apple
-  * Google ==> Android
-  * Closed Source
-  * USA
-* Vertrauen für Code
-  * Vertrauen in Downloads
-    * Viren?
-    * Warez? Veränderter Code?
-  * Ist date
-  * Vertrauen in Hardware
-* GSM ist Broken
-  * Abhörbar
-  * Störbar
-  * Billig
-#### Solutions
+!
+
+## GSM Netz
+
+* GSM ist
+  * …Abhörbar
+  * …Störbar
+  * …Fälschbar
+
+**…und das ist alles ganz billig!**
+
+!
+
+# Und Nun?
+
+!
+
+# Und Nun?
+
 * Cyanogen mod
 * Firefox OS
-* Kommuniziert über IP
-  * Gesicherte Verbindung
+* Nutzt Internet, statt Telefon!
 
+!
 
-### Tracking
-* Ghostery
-* Nutzung
-  * Datensparsamkeit
-    * Internet ist Öffentlichkeit
-    * Das internet vergisst nicht
-      * Google cache
-      * Wayback machiene
-      * Archive.org
-    * Muss ich das veröffentlichen?
-  * Informationelle selbstbestimmung
-    * Souveränität über die eigenen Daten
-      * Niemand anders veröffentlicht meinen scheiss
-    * Bewusstsein, über die auswirkungen von Informationen
-    
-    
+# Frage:
 
-### Überwachung
-* Ich hab nichts zu verbergen - was stört mich
-#### Fernsheher, Skype, Whatsapp
-* HBBTV
-* Skype
-  * ==> Microsoft
-DUMP #######################################################
-============================================================
-Anderer Vortrag
----------------
-### Passwortsicherheit
-* Wie Lautet dein Passwort
-* Sichere Passwörter
-  * Substitution is bad
-  * Gemeine Worte verwenden!
-* Doppelte Verwendung
-### Datenschutz / Soziale Netze
-* Was passiert wenn ihr offline seid?
-* Was darf WhatsApp auf euren Telefonen?
-  * Alles auser config. -> (HA)
-* Metadaten/Heuristik
-  * Spicken
-  * Beziehungen/Fremdgehen
-### Identitäten
-* Live Beispiel
- * Eltern von Freund sagen Kind ist Freundlich und Ruhig
-* Personas
-  * Bei Freundin
-    * Cool
-    * Zärtlich
-  * Bei Eltern
-    * Brav
-    * Diplomatisch
-  * Bei Freunden
-    * Cool
-    * Macho
-  * Schule
-    * Ruhig
-    * Interessiert
-  * Sport
-    * Aggressiv
-    * Ambitioniert
-*===> Informationelle Selbstbestimmung*
-### Crypto
-* Vertrauen (Bubble-of-Trust)
-  * OS
-  * Apps
-  * Closed Source
-* Signatur vs. Transport _Optional_
-* Postkarte? _Optional_
-* TLS
-* Verweis auf Cryptoparty
-  * GPG
-  * OTR
-  * TOR
-* Steganographie _Das ist zum spaß. Wir sollten das irgendwie vorziehen_
-* Email
-### Struktur
-* Themenkomplex nochmal:
-  * Suchmaschinen: Risiken, Alternativen, Finanzierung
-  * Social Networks: Risiken, Alternativen
-  * iOS, Android: Gefahren proprietären Software und Hardware, Bubble of Trust
-  * downloads: Risiken durch Unsicherheit über die Unverändertheit des Codes (Viren)
-  * weitere Themen rund um das Themengebiet alltägliche Überwachung, z.B. Internet Fernseher, Skype, Yahoo, WhatsApp, etc.
-# Infodump
-* Whatsapp
-  * Speichert Konversationen in Bereich der von anderen Programmen lesbar ist
-# Link DUMPS
-* CCC kührt sicherstes Passwort der Welt (Satire)
-  *  http://www.der-postillon.com/2014/04/it-experten-kuren-mb2r5ohf-0t-zum.html
-* Google stellt Rechenzentrum vor (Video(
-  * http://youtube.com/watch?v=avP5d16wEp0
-DAGDUMPS ###################################################
-============================================================
-## komischefolien
-Informationelle Selbstbestimmung
-"das    Recht des Einzelnen, grundsätzlich selbst über die Preisgabe und    Verwendung seiner personenbezogenen Daten zu bestimmen" (Wikipedia)
-d.H.  Jeder darf für sich selbst entscheiden, welche Daten er über sich  preis gibt laut Bundesverfassungsgerichts ein Datenschutz-Grundrecht
-Beispiel Facebook
-Wie viele Freunde habt Ihr?
-Wie viele kennt ihr davon Persönlich? ... und Freundes-Freunde?
-Beispiel Facebook
-   * Kostenlos
-   * Über 900.000.000 Nutzer
-   * Hat "Instagram" für 1 Milliarde $ gekauft
-   * Umsatz von über 2 Milliarden Dollar im Jahr
-   * Wo kommt das Geld her, wenn der Dienst kostenlos ist?
-Beispiel Facebook
-* "Like"-Button
-  * Jede Seite mit Like-Button teil Facebook mit, dass Du auf der jeweiligen Seite warst!
-  * ... auch wenn Du gar nicht auf den Knopf drückst • Lösungsansätze:
-    * Ghostery (http://www.ghostery.com/)
-    * (Verhindert technisch, dass die Buttons geladen werden)
-    * Portable Firefox
-    * (Eigener Browser für Facebook)
-Beispiel Facebook
-* Tagging von Bildern
-* Jeder kann auf Facebook Bilder mit Personen verknüpfen
-* Man muss Angemeldet sein um sich dagegen zu wehren
-* Automatisierte Gesichtserkennung
-* Die Merkmale können später für Dritte zur Verfügung gestellt werden
-* Willst Du, dass andere Menschen Dich auf peinlichen Bildern verlinken?
-Bewerbungen
-(Ob sich Party-Fotos da so gut machen?)
-Diskriminierung
-(Persönliche Ansichten zu brisanten Themen)
-Stalking
-(Ich weiss wo Du wohnst, kenne Deine Freunde, Dein Geburtsdatum, Deine Lieblings*)
-Beispiel:
-„Einreise verweigert – wegen Witzen auf Twitter“ (Zeit.de) (Einreise in USA Verweigert, Sprachungenauigkeiten)
-„Kündigung wegen Facebook-Lästerei“ (FOCUS Online) (Frankreich, auf Facebook über Unternehmen gelästert)
-Kenne das Medium Informiere Dich Mitdenken :)
+Welche Dienste nutzt ihr noch?
+
+!
+
+# Frage:
+
+Ich hab nichts zu verbergen - was stört mich das alles?
