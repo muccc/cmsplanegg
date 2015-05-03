@@ -13,6 +13,12 @@
 
 !
 
+# Warum sind wir eigentlich hier?
+
+ Oder besser: Warum seid ihr eigentlich hier?
+
+!
+
 
 # Suchmaschinen
 
@@ -103,7 +109,6 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
 
 * _!wde Begriff_ Sucht auf der deutschen Wikipedia nach dem Begriff
 * _!g Begriff_ Sucht bei Google nach dem Begriff
-
 
 !
 
