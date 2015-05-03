@@ -92,6 +92,7 @@ wenn Du nichts dafür zahlst?
 
 * _https://DuckDuckGo.com_
 * _https://ixquick.de/_
+* _https://startpage.com/_
 
 !
 
