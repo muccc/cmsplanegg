@@ -33,7 +33,8 @@ Oder besser: Warum seid ihr eigentlich hier?
 
 ## Warum sind wir dann hier?
 
-* Wir erklären, wo die Probleme liegen!
+* Erklären wie Technik funktioniert ...
+* ... und wo die Probleme liegen!
 * Wir versuchen Hinweise zu geben, was man besser machen kann!
 
 !
@@ -45,7 +46,11 @@ Oder besser: Warum seid ihr eigentlich hier?
 
 # Suchmaschinen
 
-Google ist die erfolgreichste Suchmachine weltweit
+* Google ist die erfolgreichste Suchmachine weltweit.
+* Ca. 75% aller Nutzer suchen mit Google.
+* Google ist die Standard Suchmaschine der meisten
+
+  Browser und Smartphones
 
 !
 
@@ -80,7 +85,7 @@ wenn Du nichts dafür zahlst?
 
 ## Google
 
-* Zeigt nicht alle Informationen
+* Zeigt nicht alle Informationen an
 * SEM - Search Engine Marketing
 * Google macht Geld mit euren Daten
 
@@ -128,10 +133,11 @@ wenn Du nichts dafür zahlst?
 
 ### DuckDuckGo
 
-DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
+DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen mit !BANGs
 
 * _!wde Begriff_ Sucht auf der deutschen Wikipedia nach dem Begriff
 * _!g Begriff_ Sucht bei Google nach dem Begriff
+* _!abfahrt Haltestelle_ Zeigt die Abfahrt aktueller Zuege an der Haltestelle
 
 !
 
@@ -157,7 +163,7 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
 ### Facebook
 
 * Was können Freunde / Freundesfreunde / alle anderen sehen?
-* Die Einstellungen für Datenschutz haben sich oft geändert
+* Die Einstellungen und Bedingungen für Datenschutz haben sich oft geändert
 * …und können sich jederzeit wieder ändern
 
 !
@@ -179,6 +185,7 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
   * …und Unterhaltungen
   * …welche Seiten ihr besucht habt
   * …und wenn ihr die App nutzt, noch viel mehr
+  * …und auch Nachrichten, die ihr nicht abschickt
 * …für immer
 
 !
@@ -196,6 +203,7 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
 
 * …speichert Daten über Leute die nicht bei Facebook sind
 * …speichert auch wenn ihr auf andere Webseiten geht (LikeButton)
+* …durchsucht eure E-Mails um nach "Freunden zu suchen"
 
 !
 
@@ -218,7 +226,9 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
 
 ## Informationelle Selbstbestimmung
 
-"das Recht des Einzelnen, grundsätzlich selbst über die Preisgabe und    Verwendung seiner personenbezogenen Daten zu bestimmen" (Wikipedia)
+"Das Recht des Einzelnen, grundsätzlich selbst über die Preisgabe  
+und Verwendung seiner personenbezogenen Daten zu bestimmen"  
+(Wikipedia)
 
 !
 
@@ -263,7 +273,8 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen
 
 ## Smartphones und Tablets
 
-Ein Grossteil der Kommunikation findet
+Ein Grossteil der Kommunikation findet heutzutage mittels  
+Smartphones oder Tablets statt.
 
 !
 
@@ -271,7 +282,7 @@ Ein Grossteil der Kommunikation findet
 
 * Viele Firmen bauen Handys,
   * …aber alle benutzen die Technik weniger Hersteller
-  * …und nur 2 bauen Betriebssysteme
+  * …und nur 3 bauen die gängigen Betriebssysteme
 
 !
 
@@ -279,14 +290,27 @@ Ein Grossteil der Kommunikation findet
 
 * Apple mit iOS
 * Google mit Android
+* Microsoft mit Windows
 
 !
 
 ### Smartphones, Betriebssysteme
 
-* Beide stammen aus den USA
-* Beide legen den Quellcode nicht offen
-  * ==> d.h. niemand weiss genau, was die Handys machen
+* Alle 3 stammen aus den USA
+* und legen den Quellcode nicht offen
+* d.h. niemand weiss genau, was die Handys machen  
+
+!
+
+### Smartphones, Apps
+
+* Sehr viele Apps sind ebenfalls kostenlos
+* Viele finanzieren sich über Werbung
+* Viele Apps tracken ...
+  * was Du tust
+  * wo Du bist
+  * mit wem Du redest
+
 
 !
 
