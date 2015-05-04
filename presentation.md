@@ -220,7 +220,7 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen mit !BANGs
 
 * Ghostery schützt etwas
 * "RequestPolicy" ist für Fortgeschrittene
-* Eigener Browser / Inkognito für facebook
+* Eigener Browser / Inkognito für Facebook
 
 !
 
