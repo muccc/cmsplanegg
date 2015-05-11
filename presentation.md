@@ -209,6 +209,9 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen mit !BANGs
 
 ### Und die anderen?
 
+* Younow
+* Flickr
+* Youtube
 * Twitter
 * Whatsapp (gehört nun zu Facebook)
 * V-Kontakte
@@ -218,9 +221,8 @@ DuckDuckGo bietet dir noch zusaetzlich praktische Funktionen mit !BANGs
 
 ### Und nun?
 
-* Ghostery schützt etwas
-* "RequestPolicy" ist für Fortgeschrittene
-* Eigener Browser / Inkognito für Facebook
+* Ghostery und uBlock schützen etwas
+* Inkognito für Facebook
 
 !
 
@@ -258,7 +260,7 @@ und Verwendung seiner personenbezogenen Daten zu bestimmen"
 # denn...
 
 * Google Cache
-* Wayback machiene
+* Wayback machine
 * archive.org
 
 !
@@ -343,19 +345,70 @@ Smartphones oder Tablets statt.
 
 ### Und Nun?
 
+* Die Technologie ermöglicht lückenlose Überwachung
+
 !
 
 ### Und Nun?
 
+* Die Technologie ermöglicht lückenlose Überwachung
+* Gebt nichts über euch preis
+
 
 !
 
-# Frage:
+### Und Nun?
 
-Welche Dienste nutzt ihr noch?
+* Die Technologie ermöglicht lückenlose Überwachung
+* Gebt nichts über euch preis
+* Sagt nicht was ihr denkt
 
 !
 
-# Frage:
+### Und Nun?
 
-Ich hab nichts zu verbergen - was stört mich das alles?
+* Die Technologie ermöglicht lückenlose Überwachung
+* Gebt nichts über euch preis
+* Sagt nicht was ihr denkt
+* Passt euch an und werdet unsichtbar
+
+!
+
+### Oder ...
+
+* Verändert etwas!
+	* Die Gesellschaft
+	* Die Ethik
+	* Die Gesetze
+
+!
+
+### Hackerethik
+
+* Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+* Alle Informationen müssen frei sein.
+* Mißtraue Autoritäten – fördere Dezentralisierung
+* Beurteile einen Hacker nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Rasse, Geschlecht oder gesellschaftlicher Stellung.
+
+
+!
+
+### Hackerethik
+* Man kann mit einem Computer Kunst und Schönheit schaffen.
+* Computer können dein Leben zum Besseren verändern.
+* Mülle nicht in den Daten anderer Leute.
+* Öffentliche Daten nützen, private Daten schützen.
+
+
+
+!
+
+# Wo finde ich mehr
+
+* schule.ccc.de  
+Sammelseite zu Chaos macht Schule
+* www.klicksafe.de
+EU Initiative für mehr Sicherheit im Netz
+* Heßstraße 90  
+Public Tuesday des münchner CCCs
+
